@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-oidc/commit/a8604405f4f05ab61936d8ae3ee9afd655264ccf",
       "git:hexsha": "a8604405f4f05ab61936d8ae3ee9afd655264ccf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
